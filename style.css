@@ -18,7 +18,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     font-weight: bolder;
-    background-color: rgb(20, 150, 150);
+    background-color: rgb(150, 72, 20);
     padding: 10px;
     margin-left: 5%;
   }
@@ -45,13 +45,13 @@ body {
   
   .text-left {
     text-align: left;
-    color: rgb(20, 150, 150);
+    color: rgb(57, 150, 20);
     font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
   }
   
   .text-center {
-    color: rgb(20, 150, 150);
+    color: rgb(87, 20, 150);
     font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
   }
